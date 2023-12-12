@@ -10,7 +10,7 @@ This project is a Hospital Appointment Management System designed to facilitate 
 
 ## Live Demo
 
-[Hospital Demo]()
+[Hospital Appointment Demo](https://appointment-psi.vercel.app/)
 
 ## Features
 
