@@ -8,6 +8,12 @@
 
 This project is a Hospital Appointment Management System designed to facilitate the process of scheduling and managing appointments for patients.
 
+## Table of Contents
+
+- [Features](#features)
+- [Project Skeleton](#project-skeleton)
+- [Screenshots](#screenshots)
+
 ## Live Demo
 
 [Hospital Appointment Demo](https://appointment-psi.vercel.app/)
